@@ -78,7 +78,7 @@
                                                     before. </strong>
                                             </p><br />
 
-                                            <p>Reach us by <a href="#">clicking here</a> or whatsapp +2347047492899
+                                            <p>Reach us by <a href="#">clicking here</a> or whatsapp +234
                                                 for payment related issues. </p>
                                             <br />
 
