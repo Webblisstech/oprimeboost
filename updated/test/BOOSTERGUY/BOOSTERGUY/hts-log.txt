@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Wed, 10 Apr 2024 17:54:58 at 'https://boosterguy.com none none
+(winhttrack 'https://boosterguy.com -O "BOOSTERGUY/BOOSTERGUY" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:55:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+17:55:06	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+17:55:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+17:55:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 12 links scanned, 7 files written (1013884 bytes overall) [76273 bytes received at 8474 bytes/sec], 1008512 bytes transferred using HTTP compression in 7 files, ratio 6%, 4.0 requests per connection
+(2 errors, 2 warnings, 0 messages)

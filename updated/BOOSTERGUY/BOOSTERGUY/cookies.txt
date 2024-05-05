@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+boosterguy.com	TRUE	/	FALSE	1999999999	PHPSESSID	d3eiijn9odq0g263qcdniqv0lj
+boosterguy.com	TRUE	/	FALSE	1999999999	_csrf	b1d20031adafd5d530b34db76f090cb013d391370e8bf7f6b53580bd5ae820ffa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22zLPsNcKDc1uPpYpe5asvKokxn-5T_9v3%22%3B%7D
+boosterguy.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

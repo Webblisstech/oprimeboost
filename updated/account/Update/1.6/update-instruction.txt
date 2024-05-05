@@ -1,0 +1,5 @@
+Version 1.6.0
+
+1. Please copy and replace the "application" folder and its contents to your site's root folder.
+
+Cheers!
