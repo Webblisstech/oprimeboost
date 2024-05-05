@@ -55,7 +55,87 @@
         </div>
       </div>
     </div>
-    
+    <div class="wrapper-content">
+        <div class="wrapper-content__header"></div>
+        <div class="wrapper-content__body">
+
+
+
+
+            <div id="block_61">
+                <div class="block-bg"></div>
+                <div class="container-fluid">
+                    <div class="new_order-block">
+                        <div class="row new-order-form">
+                            <div class="col-lg-8">
+                                <div class="component_form_group component_card component_radio_button">
+                                    <div class="card2">
+                                        <div class="card-body">
+
+                                            <p>IMPORTANT  | Always input payment amount and click pay to get a new account
+                                                number every time you want to deposit.
+                                                <br><strong> Do not pay into an old account number you've used
+                                                    before. </strong>
+                                            </p><br />
+
+                                            <p>Reach us by <a href="#">clicking here</a> or whatsapp +2347047492899
+                                                for payment related issues. </p>
+                                            <br />
+
+                                            <p>Please create a site ticket for order issues. That's the fastest way to get
+                                                resolution.  </p>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div id="block_61">
+                <div class="block-bg"></div>
+                <div class="container-fluid">
+                    <div class="new_order-block">
+                        <div class="row new-order-form">
+                            <div class="col-lg-8">
+                                <div class="component_form_group component_card component_radio_button">
+                                    <div class="card2">
+                                        <div class="card-body">
+
+                                            <ul>
+
+                                                <li>
+                                                    <a href="#">   TUTORIALS TO GET YOU STARTED</a>
+                                                </li>
+
+                                                <li>
+                                                    <a href="#">   UNDERSTANDING OUR DESCRIPTIONS</a>
+                                                </li>
+
+                                                <li>
+                                                    <a href="#">   UNDERSTANDING YOUR ORDER STATUS</a>
+                                                </li>
+
+                                                <li>
+                                                    <a href="#">   WHY IS YOUR ORDER NOT DELIVERING</a>
+                                                </li>
+
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
     <?php
       $header_nav_elements = app_config('client')['header_nav'];
       if (!get_option('enable_service_list_no_login', 0)) unset($header_nav_elements['services']);
